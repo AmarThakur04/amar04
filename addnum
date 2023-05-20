@@ -7,7 +7,9 @@ public class add_numbers {
         int a= sc.nextInt();
         System.out.println("enter the num2:");
         int b= sc.nextInt();
-        int sum=a+b;
+        int c= sc.nextInt();
+        System.out.println("enter the num3")
+        int sum=a+b+c;
         System.out.print("the sum is:");
         System.out.println(sum);
     }
